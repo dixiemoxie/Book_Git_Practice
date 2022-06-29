@@ -4,3 +4,4 @@ our second file
 
 we now have git enabled
 
+adding some more text to this file, so I can commit and push the changes.
